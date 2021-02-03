@@ -198,12 +198,25 @@ h6{
 
 
 /*****************************************Validator****************************************/
+/*Format of class validator*/
 .validator img{
 	float: left;
 	height: 90px;
 	width: 240px;
 }
+/*****************************************Contact table***********************************************************/
+/*Format of class title-contact*/
+.title-contact{
+	color: black;
+}
 
+/*Format of id contact*/
+#contact{
+    width:100%;
+    border:2px solid gray;
+    font-size:.9em;
+    line-height:1.8em;
+}
 
 
 
